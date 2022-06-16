@@ -8,6 +8,7 @@
         <module>seata-common</module>
         <module>seata-order</module>
         <module>seata-account</module>
+        <module>seata-web</module>
     </modules>
     <groupId>com.lg.seata</groupId>
     <artifactId>seatatest</artifactId>
